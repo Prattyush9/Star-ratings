@@ -1,0 +1,21 @@
+.star{
+    text-align: center;
+}
+.stars{
+    margin: 10px;
+    font-size: 70px;
+    border: 15px;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.on{
+    color: yellow;
+}
+.off{
+    color: grey;
+}
